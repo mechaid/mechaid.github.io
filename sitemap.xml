@@ -122,10 +122,6 @@
   </url>
   
   <url>
-    <loc>https://mecha.id/news/</loc>
-  </url>
-  
-  <url>
     <loc>https://mecha.id/research/</loc>
   </url>
   
@@ -205,6 +201,10 @@
   
   <url>
     <loc>https://mecha.id/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mecha.id/news/</loc>
   </url>
   
 </urlset>
